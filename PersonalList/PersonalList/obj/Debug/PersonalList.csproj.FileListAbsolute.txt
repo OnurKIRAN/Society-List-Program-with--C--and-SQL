@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\PersonalList\PersonalList\bin\Debug\PersonalList.exe.config
+C:\Users\PC\source\repos\PersonalList\PersonalList\bin\Debug\PersonalList.exe
+C:\Users\PC\source\repos\PersonalList\PersonalList\bin\Debug\PersonalList.pdb
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.Form1.resources
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.Properties.Resources.resources
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.exe
+C:\Users\PC\source\repos\PersonalList\PersonalList\obj\Debug\PersonalList.pdb
